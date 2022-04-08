@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamzamameri2003.hamzamameri2003">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF5550&lines=Hello,+There!+👋;This+is+Hamza+mameri+github;Nice+to+meet+you!)](https://git.io/typing-svg)
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="230">
