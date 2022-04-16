@@ -4,7 +4,7 @@
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="230">
 - 👋 Hi, I’m @hamzamameri2003
 - 👀 I’m interested in web and app devloppment & UI/UX Design
-- 🌱 I’m currently learning js  <img  src="https://www.codewars.com/users/mameri%20hamza/badges/micro">
+- 🌱 I’m currently learning js  
 - 📫 How to reach me : hamzamameri2003@gmail.com
 
 ## 🛠️ My favorite tools
