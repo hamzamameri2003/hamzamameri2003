@@ -15,7 +15,7 @@ I am  Hamza Mameri. I am from Algeria, and currently i am a freshmen at Houari B
 
 ## 🚀 Languages and Tools:
 
-<p align="center">
+<p align="left">
    
    
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
