@@ -3,7 +3,7 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5728F7FF&lines=Hello,+There!+👋;This+is+Hamza+mameri+github;Nice+to+meet+you!)](https://git.io/typing-svg)
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 <br>
 I am  Hamza Mameri. I am from Algeria, and currently i am a freshmen at Houari Boumedienne university 🏫. I love to explore and learn about new things.
 - 💬 Ask me about anything an everything.
