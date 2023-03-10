@@ -5,8 +5,8 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5728F7FF&lines=Hello,+There!+👋;This+is+Hamza+mameri+github;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 <br>
-I am  Hamza Mameri. I am from Algeria, and currently i am a freshmen at Houari Boumedienne university 🏫. I love to explore and learn about new things.
-- 💬 Ask me about anything an everything.
+I am  Hamza Mameri. I am from Algeria, and currently i study civil engineering at Houari Boumedienne university 🏫. I love to explore and learn about new things.
+- 💬 Ask me about anything and everything.
 - 👀 I’m interested in web and app devloppment & UI/UX Design
 - 🌱 I’m currently learning js
 - 🎯 Portfolio site: coming soon.
